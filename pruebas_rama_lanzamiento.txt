@@ -8,3 +8,5 @@ esta ubicada en la rama lanzamiento
 cambios: 
 1 = 1 
 2 = 2
+
+estos cambios son para el lanzamiento
