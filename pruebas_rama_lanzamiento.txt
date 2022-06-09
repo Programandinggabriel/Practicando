@@ -2,3 +2,9 @@ prueba de lanzamiento 1
 
 esta prueba es de lanzamiento 
 esta ubicada en la rama master
+esta prueba es de lanzamiento
+esta ubicada en la rama lanzamiento
+
+cambios: 
+1 = 1 
+2 = 2
