@@ -8,9 +8,15 @@
 </header>
 <body>
     <br>
-    <textarea> Este es el comienzo...
+    <textarea id="abc" style="width: 200px; height: 50px;"> Este es el comienzo...
     
-    </textarea>
+    </textarea> <br>
+    <button style="margin: 25px; width: 100px; height: 50px;" onclick="muestramsj()">Mensaje</button>
 </body>
+<script>
+    function muestramsj(){
+        window.alert(document.getElementById('abc').value);
+    }
+</script>
 
 </html>
